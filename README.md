@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogendra131994" alt="yogendra131994" /></a> </p>
 
 - 📫 How to reach me **yogendraapawar@gmail.com**
+
+- Twitter
 **https://twitter.com/Yogendra131994?t=r8DTiNas9cfArXS3kg8B_A&s=09**
 
 <h3 align="left">Connect with me:</h3>
